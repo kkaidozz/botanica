@@ -1,0 +1,1 @@
+{implement_foundation_config_part}
